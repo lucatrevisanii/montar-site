@@ -25,13 +25,12 @@ Primeira tela: o que é, pra quem, e o que fazer.
 - Errado: nenhuma.
 
 **(d) Uma palavra pro jeito da página.**
-- Certo: uma das 5 palavras do sim, ou parecida.
-- Errado: uma das 5 palavras do nunca.
+- Certo: uma das palavras do sim, ou parecida.
+- Errado: uma das palavras do nunca.
 
 ## Meta
-- (a) e (b) certos em pelo menos dois terços dos leitores.
-- (c) na ação principal em pelo menos dois terços.
-- (d) fora das palavras do nunca em todos.
+- A maioria acerta (a), (b) e (c).
+- Ninguém usa uma palavra do nunca em (d).
 
 ## Respostas
 Uma linha por leitor, com a resposta como veio.

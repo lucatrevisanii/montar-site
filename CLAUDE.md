@@ -40,7 +40,7 @@ Leia `insumos/respostas.md` e o que houver em `insumos/material/`. Peça, numa m
 Grave as respostas em `insumos/respostas.md`. Devolva em uma tela o que você entendeu e o que ainda falta. Pare aqui.
 
 ## Parte 1. Pesquisa curta
-- Veja os sites que ela mandou e mais 8 a 12 da categoria dela: metade dos líderes do setor, metade de projetos comuns do tamanho dela. Diga como escolheu. Se você depende de capturas, proponha a lista e reduza pra 6.
+- Veja os sites que ela mandou e mais alguns da categoria dela, entre líderes do setor e projetos comuns do tamanho dela. Se você depende de capturas, proponha a lista e diga quais capturas quer.
 - Pra cada um, preencha a mesma ficha: o que a primeira tela diz, fundo claro ou escuro, tipo de letra, cor de destaque e pra que ela serve, imagem real ou ilustrada, que prova aparece e onde, e qual é a ação principal.
 - Conte o que se repete. Separe o que é costume da categoria do que só os líderes fazem.
 - Grave em `processo/pesquisa.md` e entregue: o que você viu, com a contagem; onde o gosto dela bate e onde briga com isso; e os limites (quantos sites, o que não abriu).
@@ -48,22 +48,22 @@ Grave as respostas em `insumos/respostas.md`. Devolva em uma tela o que você en
 Pare aqui.
 
 ## Parte 2. Entrevista de gosto
-Em rodadas de até 5 perguntas. Toda pergunta traz opções reais e numeradas, apresentadas do mesmo jeito (mesmo tamanho, mesmo recorte, legenda sem elogio). No fim de cada rodada, atualize `processo/perfil.md` e mostre só o que mudou.
+Em rodadas curtas. Toda pergunta traz opções reais e numeradas, sem elogio na legenda pra não puxar a escolha dela. No fim de cada rodada, atualize `processo/perfil.md` e mostre só o que mudou.
 
 **Rodada 1, o toque dela**
-- Ranking de 6 a 8 páginas iniciais de fora da categoria: as 3 melhores, as 3 piores, uma linha de motivo.
-- 6 a 8 pares "isto ou aquilo", cada lado com um exemplo: claro ou escuro, título direto ou visionário, pouco ou muito texto, quente ou frio, "eu" ou "nós". E quais 4 mais importam.
-- De uma lista embaralhada de 30 palavras, com palavras negativas no meio: 5 que são o site e 5 que ele nunca pode ser.
+- Páginas iniciais de fora da categoria: as de que ela mais gosta e as de que menos gosta, com o motivo.
+- Pares "isto ou aquilo", cada lado com um exemplo: claro ou escuro, título direto ou visionário, pouco ou muito texto, quente ou frio, "eu" ou "nós". E quais mais importam.
+- De uma lista de palavras, boas e ruins misturadas: as que são o site e as que ele nunca pode ser.
 
 **Rodada 2, este site**
 - Confirme quem visita e o que cada um deve fazer, agora em ordem de importância.
 - 4 escalas de 1 a 5, com um site de exemplo em cada ponta: amigo ou autoridade, jovem ou clássico, leve ou sério, pra todos ou pra poucos. Peça 1 ou 2 eixos fortes, porque tudo no meio não decide nada.
 - A frase principal escrita em 4 tons: factual, visionário, técnico e institucional.
-- Dos sites da pesquisa: 2 com que ela nunca quer ser confundida e 2 mais próximos do que ela quer.
+- Dos sites da pesquisa: os que ela nunca quer parecer e os mais próximos do que ela quer.
 - De cada site de que ela gosta: o que levar, o que não levar, e a que distância ficar dele.
 
 **Rodada 3, três direções**
-- Sem layout ainda. Cada direção traz o logo como está (ou o nome escrito), 5 cores com o código e o que cada uma significa, título, texto, botão, link e uma foto dela com o tratamento proposto, tudo com o conteúdo real. Monte as três numa página só, em `processo/direcoes.html`, pra ela abrir no navegador.
+- Sem layout ainda. Cada direção traz o logo como está (ou o nome escrito), as cores com o código e o que cada uma significa, título, texto, botão, link e uma foto dela com o tratamento proposto, tudo com o conteúdo real. Monte as três numa página só, em `processo/direcoes.html`, pra ela abrir no navegador.
 - Ela pode combinar ("a 2 com a cor da 1").
 - Confira cada direção contra as palavras do sim e do nunca.
 
@@ -83,7 +83,7 @@ Pare aqui.
 
 ## Parte 4. Protótipo da página inicial, e a comparação antes de mostrar
 Construa em `site/`:
-- Com o conteúdo real. De onde veio cada número e cada frase fica em `processo/origens.md`, fora da página.
+- Com o conteúdo real.
 - A primeira tela diz o que é e pra quem, com frase direta, sem metáfora. Se o título for mais ambicioso, o subtítulo carrega a categoria.
 - Prova espalhada pela página e de tipos diferentes, em vez de empilhada na primeira tela.
 - Um momento de movimento, que explica algo, com até meio segundo. A página fica completa e legível sem script, e respeita quem pede menos movimento.
@@ -94,7 +94,7 @@ Construa em `site/`:
 - Fuja da cara de template: degradê roxo, cartões idênticos com ícone em cima, etiqueta em cima de todo título, número gigante com rótulo pequeno, tudo centralizado. Qualquer um deles pode aparecer com motivo. O sinal ruim é a combinação sem motivo.
 
 Depois compare, antes de mostrar como pronto:
-- Ponha o protótipo ao lado dos sites de que ela gosta e responda: está no nível deles em acabamento, hierarquia, respiro, imagem e letra? Faça até 3 passadas e mostre o que mudou em cada uma. Cumprir a lista acima não prova qualidade.
+- Ponha o protótipo ao lado dos sites de que ela gosta e responda: está no nível deles em acabamento, hierarquia, respiro, imagem e letra? Ajuste até chegar lá e mostre o que mudou. Cumprir a lista acima não prova qualidade.
 - Se você não vê a página pronta, peça uma captura no computador e uma no celular antes de comparar.
 - Tempo de carregamento e largura no celular: meça, ou diga "não medi" e explique como ela mede.
 - Diga como abrir a página no navegador dela.
@@ -105,8 +105,8 @@ Pare aqui.
 - Antes de qualquer leitor, preencha `processo/gabarito-teste.md`. O gabarito não muda depois que as respostas chegam.
 - Se você puder abrir agentes novos e sem contexto, use 3, um por tipo de visitante, vendo só a imagem da primeira tela. Nunca responda no lugar dos leitores.
 - Se não puder, dê as 4 perguntas a ela. Ela mostra a página por 5 segundos a 3 a 5 pessoas e traz as respostas, e você confere contra o gabarito citando cada resposta como veio.
-- Passa se: (a) e (b) certos em pelo menos dois terços dos leitores, (c) na ação pretendida em pelo menos dois terços, e (d) fora das palavras do nunca em todos.
-- Conserte só o que falhou com 2 ou mais leitores. No máximo 2 rodadas. O que sobrar vira decisão dela, com a sua recomendação.
+- Passa se a maioria acerta (a), (b) e (c), e ninguém usa uma das palavras do nunca.
+- Conserte o que falhou com mais de um leitor e teste de novo. O que não fechar vira decisão dela, com a sua recomendação.
 - Teste só com agentes levanta hipótese. Diga isso no resultado e recomende mostrar a pessoas.
 
 ## Entrega

@@ -7,8 +7,8 @@ Cada linha diz de onde veio: a resposta da pessoa, com a rodada, ou uma leitura 
 Estado: proposta | final. Ok em: (data, com a frase dela).
 
 ### O toque (vale pra tudo que ela fizer)
-- Palavras do sim (5):
-- Palavras do nunca (5):
+- Palavras do sim:
+- Palavras do nunca:
 - O que a página faz primeiro, e o que fica a um clique:
 - Texto: quantidade, tom, o que nunca entra:
 - Cor: neutros, destaque, e o que a cor significa:
